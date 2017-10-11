@@ -1,0 +1,17 @@
+h1 {
+  font-size: 2em;
+  font-variant: small-caps;
+  text-align: center;
+}
+
+.about {
+  font-style: italic;
+  letter-spacing: 5px;
+}
+.post {
+  border: 1px solid black;
+}
+.post h2 {
+  font-size: 2em;
+  text-align: center;
+}
